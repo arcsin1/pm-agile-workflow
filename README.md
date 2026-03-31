@@ -1,4 +1,4 @@
-# PM Agile Workflow
+# PM Agile Workflow Skill
 
 > 敏捷产品经理需求产出工作流 - 从模糊想法到可交付的 PRD + 原型 + 流程图
 
